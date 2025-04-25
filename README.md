@@ -4,6 +4,10 @@
 # salespackage
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/Nicccolas/sales_package/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/Nicccolas/sales_package/actions/workflows/R-CMD-check.yaml)
+[![Codecov test
+coverage](https://codecov.io/gh/Nicccolas/sales_package/graph/badge.svg)](https://app.codecov.io/gh/Nicccolas/sales_package)
 <!-- badges: end -->
 
 The goal of salespackage is to …
